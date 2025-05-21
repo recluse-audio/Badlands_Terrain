@@ -1,0 +1,3 @@
+[submodule "SUBMODULES/sheet-coll-converter"]
+	path = SUBMODULES/sheet-coll-converter
+	url = https://github.com/natepmay/sheet-coll-converter.git
