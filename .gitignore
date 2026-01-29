@@ -1,0 +1,17 @@
+@"
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data / artifacts
+*.zip
+*.las
+*.laz
+*.csv
+*.tif
+*.tiff
+
+# If you *do* want small CSVs in repo later, remove *.csv and list specific ones.
+"@ | Set-Content .gitignore
